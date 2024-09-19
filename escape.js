@@ -35,8 +35,8 @@ function fugir(){
 
 }
 
-function a(){
+
     document.getElementById("video").onclick = function() {
         window.location.href = "https://www.tiktok.com/@caaio.liima/video/7222679783694535942?is_from_webapp=1&sender_device=pc";
-    };
+
 }
